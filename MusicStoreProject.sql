@@ -1,10 +1,4 @@
--- The senior most employee based on the job title
-SELECT 
-    employee_id, first_name, levels 
-FROM
-    employee
-ORDER BY levels DESC
-LIMIT 1;
+
 
 -- Which country have the most invoices
 SELECT 
